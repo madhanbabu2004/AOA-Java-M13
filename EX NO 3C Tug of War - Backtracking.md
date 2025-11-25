@@ -48,8 +48,8 @@ Subset 2 → [11]
 ```java
 /*
 Program to implement Tug of War Problem (Partition Equal Subset Sum)
-Developed by: VENKATANATHAN P R
-Register Number: 212223240173
+Developed by: MADHAN BABU P
+Register Number: 212222230075
 */
 
 import java.util.Scanner;
